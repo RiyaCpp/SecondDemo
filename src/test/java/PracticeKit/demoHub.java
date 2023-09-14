@@ -6,6 +6,7 @@ public class demoHub {
 	{
 		System.out.println("Hi How are you?");
 		System.out.println("Hi am fine");
+		System.out.println("Very good");
 
 	}
 
